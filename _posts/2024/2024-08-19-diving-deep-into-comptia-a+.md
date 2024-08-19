@@ -1,6 +1,6 @@
 ---
 title: "Diving Deep into CompTIA A+: Electrostatic Discharge, Troubleshooting, and Operating Systems"
-date: 2024-08-19 12:00:00 - 0500
+date: 2024-08-19 03:00:00 - 0500
 categories: [Information Technology, Certifications]
 tags: [comptia a+, mike meyers, certifications]
 image: /assets/img/blog2preview.webp
