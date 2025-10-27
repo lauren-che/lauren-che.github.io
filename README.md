@@ -1,21 +1,4 @@
 
-<a id="readme-top"></a>
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-
-  <h3 align="center">My Blog Website</h3>
-
-  <p align="center">
-    I built this blog using Chirpy, a Jekyll theme known for its simplicity and readability. Jekyll is a powerful static site generator written in Ruby, perfect for creating static websites and blogs from plain text. I chose this technology because I wanted to spend less time building a custom website, but still wanted to host my own site and try a new framework and site generator.
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template" style="color: #ff6100;">View Live Blog</a>
-
-  </p>
-</div>
 
 
 
@@ -23,7 +6,6 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About The Blog Project</a><li/>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#installation">Installation</a></li>
